@@ -6,5 +6,6 @@
 
 * Strategy Pattern
 * Observer Pattern
-* Decorator Pattern (작성 중)
+* Decorator Pattern
+* Singleton Pattern
 * Factory Pattern (예정)
