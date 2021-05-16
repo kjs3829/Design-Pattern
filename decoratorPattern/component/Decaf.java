@@ -2,14 +2,14 @@ package decoratorPattern.component;
 
 import decoratorPattern.Beverage;
 
-public class Americano extends Beverage {
+public class Decaf extends Beverage {
 
-    public Americano() {
-        description = "아메리카노";
+    public Decaf() {
+        description = "디카페인";
     }
 
     @Override
     public int cost() {
-        return 2000;
+        return 3000;
     }
 }

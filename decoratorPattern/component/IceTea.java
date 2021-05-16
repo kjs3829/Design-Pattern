@@ -2,10 +2,10 @@ package decoratorPattern.component;
 
 import decoratorPattern.Beverage;
 
-public class Americano extends Beverage {
+public class IceTea extends Beverage {
 
-    public Americano() {
-        description = "아메리카노";
+    public IceTea() {
+        description = "아이스티";
     }
 
     @Override
